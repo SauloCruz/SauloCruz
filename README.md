@@ -44,8 +44,8 @@ Brazilian expat blending relationship-focused hospitality with American efficien
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SauloCruz&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloCruz&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" height="165" />
 </p>
 
 ---
