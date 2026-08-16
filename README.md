@@ -14,12 +14,23 @@ I run restaurants and build the systems that make them profitable. Former cloud 
 
 ## 🍝 What I Do
 
-Co-owner of two independent Seattle venues:
+Partner in three independent Seattle venues:
 
-- **[La Fontana Siciliana](https://www.lafontanasiciliana.com)** — Sicilian-inspired Italian in Belltown since 1994, with a historic courtyard and fountain. *(50/50 partnership with Rodrigo Parisi)*
-- **[Tavern Law](https://www.tavernlaw.com)** — Capitol Hill craft cocktail bar & gastropub, home to the upstairs speakeasy **Needle & Thread**. *(Operated by The Hidden Door Ventures LLC, Cruz & Jones Hospitality Group)*
+- **[La Fontana Siciliana](https://www.lafontanasiciliana.com)** — Sicilian-inspired Italian in Belltown since 1994, with a historic courtyard and fountain. *(Partnership with Rodrigo Parisi)*
+- **[Tavern Law](https://www.tavernlaw.com)** — Capitol Hill craft cocktail bar & gastropub, home to the upstairs speakeasy **Needle & Thread**. *(The Hidden Door Ventures LLC — Cruz & Jones Hospitality Group)*
+- **[Poquitos](https://poquitosseattle.com)** — Mexican restaurant and bar on Capitol Hill's E Pike St. *(Salt Holdings LLC)*
 
 My focus: preserving each venue's character while driving sustainable, profitable growth — cutting operating costs, improving workforce retention, and engaging guests both in person and digitally.
+
+## 🔧 Featured Project
+
+### [TipPool](https://github.com/SauloCruz/TipPool) — multi-venue tip pool management
+
+In production across all three venues, replacing the spreadsheets that used to decide real people's pay.
+
+Three venues run three genuinely different rule sets — an hourly pool, a percentage tip-out, and a points × hours model — behind one login. The calculation engine is pure Python with no I/O: money is integer cents, splits use deterministic largest-remainder rounding, and every pool is covered by conservation invariants asserted in the engine itself. Finalizing a day writes an immutable snapshot; edits require an explicit reopen and keep the history. Sales, tips, and timecards come from the Square APIs, and anything unmapped *blocks* the day rather than being guessed at.
+
+FastAPI · SQLite · no-build vanilla JS · Docker · 452 tests · Elastic License 2.0
 
 ## 🛠️ Tech Meets Hospitality
 
@@ -27,6 +38,7 @@ Before restaurants, I spent years in cloud infrastructure — Support Engineer, 
 
 - **Agentic AI operations** — Claude-based assistants and sub-agents for ops, finance, and marketing workflows
 - **POS & financial analytics** — Square and QuickBooks data pipelines for food cost, labor, and margin visibility
+- **Payroll-grade tooling** — systems where being off by a cent is a real problem, built and tested accordingly
 - **Process automation** — eliminating waste and streamlining service without sacrificing guest experience
 - **Parametric CAD & 3D printing** — Fusion 360 + Bambu Lab X1C for custom fixtures and branded assets
 
