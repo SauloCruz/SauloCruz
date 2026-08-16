@@ -18,7 +18,7 @@ Partner in three independent Seattle venues:
 
 - **[La Fontana Siciliana](https://www.lafontanasiciliana.com)** — Sicilian-inspired Italian in Belltown since 1994, with a historic courtyard and fountain. *(Partnership with Rodrigo Parisi)*
 - **[Tavern Law](https://www.tavernlaw.com)** — Capitol Hill craft cocktail bar & gastropub, home to the upstairs speakeasy **Needle & Thread**. *(The Hidden Door Ventures LLC — Cruz & Jones Hospitality Group)*
-- **[Poquitos](https://poquitosseattle.com)** — Mexican restaurant and bar on Capitol Hill's E Pike St. *(Salt Holdings LLC)*
+- **[Poquitos](https://vivapoquitos.com)** — Mexican restaurant and bar on Capitol Hill's E Pike St. *(Partnership with Taisa Gheller — Salt Holdings LLC)*
 
 My focus: preserving each venue's character while driving sustainable, profitable growth — cutting operating costs, improving workforce retention, and engaging guests both in person and digitally.
 
